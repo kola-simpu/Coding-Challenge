@@ -4,7 +4,7 @@ Build an excurions API authenticated with JWT(JSON Web Tokens) that uses CRUD fu
 
 ## Requirements:
 
-- Please use raw optimized mySQL queries, avoid using Djangos inbuilt ORM
+- Please use raw optimized mySQL queries, avoid using Djangos inbuilt ORM, rest framework api and the likes
 - The endpoints should use JWT authentication
 - Demonstrate proper use of RESTFul APIs. 
 - HTTP status codes (200, 404, 500). 
